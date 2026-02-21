@@ -1,3 +1,0 @@
-name;surname;nickname;birth_date
-Igor;Muntyan;SuperPuperGamer;2000-12-02
-Anna;Koval;Ann99;1998-05-10
